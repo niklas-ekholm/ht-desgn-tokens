@@ -1,1 +1,1 @@
-# ht-desgn-tokens
+# ht-design-tokens
